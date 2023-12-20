@@ -17,7 +17,7 @@ export default function Home() {
             </h1>
 
             <p>O tênis do futuro.</p>
-            <p>O fututo a um passo de seu alcance!</p>
+            <p>O futuro a um passo de seu alcance!</p>
             <button className="font-bold text-[#fff] bg-[#151823] p-3 w-[200px] text-base mt-5 border-[3px] border-[#151823] hover:bg-[#fff]  hover:text-[#151823]">
               QUERO CONHECER!
             </button>
