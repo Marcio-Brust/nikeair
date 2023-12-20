@@ -8,7 +8,7 @@ export default function Home() {
         className="flex max-lg:flex-col 
        shadow-2xl"
       >
-        <div className="bg-[#fff] p-5">
+        <div className="bg-[#fff] p-3">
           <h1 className="font-bold  mb-24">DevMentor.</h1>
 
           <div className="flex flex-col gap-4 p-12">
